@@ -31,25 +31,58 @@ header, footer {
 .card { 
     border: 1px solid #ccc; 
     padding: 1rem; 
-    max-width: 250px; 
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .detall { 
-    padding: 1rem; 
+    padding: 5rem; 
     font-family: 'Times New Roman', Times, serif;
-    padding: 10%;
 
 }
 
-h2 {
+.card h2 {
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
 }
 
+.detall h2 {
+    text-align: center;
+    font-size: 80px;
+}
 
 .fitxa img { 
-    min-width: 100%; 
-    height: auto; 
+    min-width: 80%; 
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5%;
+}
+
+.fitxa p {
+    font-size: 30px;
+}
+
+.btn {
+    background-color: black;
+    height: 28px;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.btn a {
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: rgb(4, 23, 192);
+    transition: 0.2s ease-in;
 }
 
 @media (max-width: 768px) { 
