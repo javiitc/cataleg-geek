@@ -1,0 +1,63 @@
+<cataleg> 
+    <joc id="G001"> 
+        <titol> God of War </titol> 
+        <genere> Aventura </genere> 
+        <any> 2018 </any> 
+        <plataforma> PlayStation 4 / PlayStation 5 / PC </plataforma> 
+        <preu> 20.00 (Precio de salida: 60€) </preu> 
+        <valoracio > 9.4 (Más de 6400 valoraciones en la plataforma de Steam) </valoracio> 
+        <descripcio> Juego que continua la historia de Kratos en la mitología nórdica, con una nueva historia, sin dejar atrás su pasado, y con un nuevo sistema de combate </descripcio> 
+    </joc>
+
+    <joc id="G002"> 
+        <titol> God of War: Raggnarok </titol> 
+        <genere> Aventura </genere> 
+        <any> 2022 </any> 
+        <plataforma> PlayStation 4 / PlayStation 5 / PC </plataforma> 
+        <preu> 60.00 </preu> 
+        <valoracio> 9.8 </valoracio> 
+        <descripcio> Después de los acontecimientos sucedidos anteriormente, el invierno eterno da comienzo y con ello el inicio del fin de Asgard (Ragnarok), Kratos deberá decidir si intervenir en la batalla contra Asgard o mantenerse al margen </descripcio> 
+    </joc>
+
+    <joc id="G003"> 
+        <titol> Marvel's Spiderman 2 </titol> 
+        <genere> Aventura </genere> 
+        <any> 2023 </any> 
+        <plataforma> PS5 / PC </plataforma> 
+        <preu> 59.99€ </preu> 
+        <valoracio> 9.2 </valoracio> 
+        <descripcio> Después de derrotar a su mentor y a los 6 siniestros, a Peter le tocará afrontar la invasión simbionte junto con Miles y MJ </descripcio> 
+    </joc>
+
+    <joc id="G004"> 
+        <titol> Elden Ring </titol> 
+        <genere> Rol de acción, soulslike </genere> 
+        <any> 2022 </any> 
+        <plataforma> PlayStation 5, PlayStation 4, PC, Xbox Series X and Series S, Xbox One </plataforma> 
+        <preu> 59.99 </preu> 
+        <valoracio> 9 </valoracio> 
+        <descripcio> Elden Ring es un RPG de acción ambientado en el mundo de las Tierras Intermedias, donde los jugadores, como "Tarnished", deben reparar el Roto Elden Ring y convertirse en el Elden Lord. </descripcio> 
+    </joc>
+
+
+    <joc id="G005"> 
+        <titol> Dispatch </titol> 
+        <genere> Indie-game </genere> 
+        <any> 2025 </any> 
+        <plataforma> PC, PlayStation 5 </plataforma> 
+        <preu> 26.00 </preu> 
+        <valoracio> 10 </valoracio> 
+        <descripcio> Dispatch es un videojuego de aventura narrativa y comedia de oficina que combina la gestión estratégica, la toma de decisiones ramificadas y el humor negro. </descripcio> 
+    </joc>
+
+    <joc id="G006"> 
+        <titol> Detroit: Become Human </titol> 
+        <genere> Acción-aventura </genere> 
+        <any> 2018 </any> 
+        <plataforma> PC, PlayStation 4, PlayStation 5 </plataforma> 
+        <preu> 39.99 </preu> 
+        <valoracio> 9 </valoracio> 
+        <descripcio> Detroit: Become Human es un videojuego de aventuras de ciencia ficción ambientado en el Detroit de 2038, donde los androides diseñados para servir a los humanos comienzan a desarrollar emociones y a rebelarse contra sus amos. </descripcio> 
+    </joc>
+
+</cataleg>
